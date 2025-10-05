@@ -38,5 +38,3 @@ The goal of this project is to demonstrate the design of an informative, visuall
 
 
 ---
-
-## 📁 Folder Structure
